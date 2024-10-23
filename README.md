@@ -1,3 +1,4 @@
+![Swiggy](https://github.com/uday-data-nerd/swiggy_sql_project/blob/main/swiggy.jpg)
 # SQL Project: Data Analysis for Swiggy - A Food Delivery Company
 
 ## Overview
